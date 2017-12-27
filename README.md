@@ -3,7 +3,7 @@ espeak_ros
 
 This ROS package wraps the espeak library for text-to-speech.
 
-It was developed on Ubuntu 12.04 and tested on ROS Groovy/Hydro.
+It was developed on Ubuntu 12.04 and tested on ROS Groovy, Hydro, Indigo and Kinetic.
 
 The original source code of the sole node within this package has 
 been copied from https://github.com/Teknoman117/linbot.
